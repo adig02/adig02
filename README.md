@@ -53,7 +53,7 @@ PHP, MySQL, HTML, CSS, JavaScript
 
 ## 📚 Download That Book — Automation Tool  
 
-Automation tool developed for Technology Accreditation Canada to streamline downloading Open Educational Resources.
+Automation tool developed for Georgian College's OER Department to streamline downloading Open Educational Resources.
 
 **Features**
 - Web scraping automation  
