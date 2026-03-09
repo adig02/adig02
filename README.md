@@ -103,45 +103,9 @@ Java, JavaFX
 
 ---
 
-# 📊 Currently Learning  
-
-- Advanced ASP.NET Core  
-- Cloud architecture fundamentals  
-- System design basics  
-- Data analysis concepts  
-- API development best practices  
-
----
-
-# 🧠 Core Skills  
-
-- Object-Oriented Programming  
-- Full-Stack Development  
-- Database Design & SQL  
-- Debugging & Problem Solving  
-- Software Development Lifecycle (SDLC)  
-- Agile & Iterative Development  
-- Automation & Scripting  
-
----
-
-# 📈 Career Goals  
-
-I aim to become a well-rounded software developer capable of designing scalable systems and building impactful applications.
-
-I am particularly interested in:
-- Software Development  
-- Backend Engineering  
-- Data Tools  
-- Cloud Infrastructure  
-- Automation  
-
----
-
 # 🤝 Connect With Me  
 
-- LinkedIn: (Add your link)  
-- Email: (Add your email)  
+- Email: adigershman2@gmail.com
 
 ---
 
